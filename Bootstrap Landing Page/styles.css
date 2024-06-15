@@ -1,0 +1,15 @@
+
+@font-face {
+    font-family: 'Rubik' ;
+    src: url(Fonts/spacemono/rubik/rubik/Rubik-Italic[wght].ttf);
+}
+
+
+.jumbotron-heading{
+    font-style:'Rubik', sans-serif;
+}
+
+body {
+    background-color: #EDDBC7;
+}
+
